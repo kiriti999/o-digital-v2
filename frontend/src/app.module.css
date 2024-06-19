@@ -1,0 +1,15 @@
+.appTitle {
+  font-size: 6rem;
+}
+
+@media screen and (max-width: 800px) {
+  .appTitle {
+    font-size: 4rem;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .appTitle {
+    font-size: 2rem;
+  }
+}
